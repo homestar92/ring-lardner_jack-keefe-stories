@@ -29,57 +29,100 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Jack Keefe Stories</dc:title>
 		<meta property="file-as" refines="#title">Jack Keefe Stories</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Humorous stories</dc:subject>
+		<dc:subject id="subject-2">Epistolary Fiction</dc:subject>
+		<dc:subject id="subject-3">Baseball players -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Baseball stories</dc:subject>
+		<dc:subject id="subject-5">American wit and humor</dc:subject>
+		<dc:subject id="subject-6">World War, 1914-1918 -- Humor</dc:subject>
+		<dc:subject id="subject-7">World War, 1914-1918 -- Caricature and cartoons</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85044453</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007101906</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85012047</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85004424</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2010119510</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2010119466</meta>
+		<meta property="se:subject">Shorts</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Satire</meta>
+		<meta property="se:subject">Travel</meta>
+		<dc:description id="description">Baseball player Jack Keefe writes a series of letters to his friend Al descrbing the goings-on of his life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/52670</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/16929</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/7405</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747225</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015006602059</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uc1.31175002004557</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112037952386</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112033785905</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112033785913</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747985</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747993</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112071819236</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015004053883</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1919-01-25_191_30</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747852</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016748082</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016748090</dc:source>
+		<meta property="se:production-notes">Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published books did not divide the content into separate chapters, so scans were used as reference for the story breaks.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_jack-keefe-stories</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Ring W. Lardner</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ring_Lardner</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79023324</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">David Edwards</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Edwards, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Graeme Mackreth</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Mackreth, Graeme</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">Marilynda Fraser-Cunliffe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Fraser-Cunliffe, Marilynda</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Verity White</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">White, Verity</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Eric Eldred</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Eldred, Eric</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">William Flis</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Flis, William</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-7">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
