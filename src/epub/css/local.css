@@ -31,3 +31,11 @@ footer{
 article > blockquote{
 	margin: 1em 0;
 }
+
+table{
+	margin: auto
+}
+
+tr > td:last-of-type{
+	text-align: right;
+}
