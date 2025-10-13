@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="a-bushers-letters-home.xhtml">
+		<ignore>
+			<code>y-026</code>
+			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
