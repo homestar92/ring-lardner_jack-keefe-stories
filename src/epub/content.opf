@@ -59,6 +59,7 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:source>https://www.gutenberg.org/ebooks/52670</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/16929</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/7405</dc:source>
