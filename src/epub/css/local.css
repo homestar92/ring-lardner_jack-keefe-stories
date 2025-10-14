@@ -33,7 +33,7 @@ article > blockquote{
 }
 
 table{
-	margin: auto
+	margin: auto;
 }
 
 tr > td:last-of-type{
