@@ -49,10 +49,10 @@
 		<meta property="term" refines="#subject-6">sh2010119510</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2010119466</meta>
-		<meta property="se:subject">Shorts</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
+		<meta property="se:subject">Shorts</meta>
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">Baseball player Jack Keefe writes a series of letters to his friend Al descrbing the goings-on of his life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -63,20 +63,9 @@
 		<dc:source>https://www.gutenberg.org/ebooks/52670</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/16929</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/7405</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747225</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015006602059</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uc1.31175002004557</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112037952386</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112033785905</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112033785913</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747985</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747993</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uiug.30112071819236</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015004053883</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000497622</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/008573196</dc:source>
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1919-01-25_191_30</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016747852</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016748082</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015016748090</dc:source>
 		<meta property="se:production-notes">Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published books did not divide the content into separate chapters, so scans were used as reference for the story breaks.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
