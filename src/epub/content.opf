@@ -19,6 +19,7 @@
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
@@ -124,6 +125,7 @@
 		<item href="text/a-new-busher-breaks-in.xhtml" id="a-new-busher-breaks-in.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-busher-abroad-part-1.xhtml" id="the-busher-abroad-part-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-busher-beats-it-hence.xhtml" id="the-busher-beats-it-hence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-busher-comes-back.xhtml" id="the-busher-comes-back.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bushers-honeymoon.xhtml" id="the-bushers-honeymoon.xhtml" media-type="application/xhtml+xml"/>
@@ -141,6 +143,7 @@
 		<itemref idref="a-new-busher-breaks-in.xhtml"/>
 		<itemref idref="the-bushers-kid.xhtml"/>
 		<itemref idref="the-busher-beats-it-hence.xhtml"/>
+		<itemref idref="the-busher-abroad-part-1.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
