@@ -18,4 +18,14 @@
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
+	<file path="the-busher-beats-it-hence.xhtml">
+		<ignore>
+			<code>y-026</code>
+			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
+		</ignore>
+		<ignore>
+			<code>t-029</code>
+			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
