@@ -67,6 +67,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000497622</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008573196</dc:source>
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1919-01-25_191_30</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1918-03-09_190_36</dc:source>
 		<meta property="se:production-notes">Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published books did not divide the content into separate chapters, so scans were used as reference for the story breaks.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
