@@ -72,3 +72,12 @@ p span.i2{
 blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] > header{
 	text-align: initial;
 }
+
+#stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"]{
+	font-variant: normal;
+}
+
+header.numbered-header{
+	font-size: larger;
+	text-align: center;
+}
