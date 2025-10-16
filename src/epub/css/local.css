@@ -69,15 +69,18 @@ p span.i2{
 	text-indent: -1em;
 }
 
+/* Putting the headers of letters inside of letters on the left. This matches their appearance in the scans. */
 blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] > header{
 	text-align: initial;
 }
 
+/* Overriding styles for letters within letters - these do not use small-caps */
 #stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"]{
 	font-variant: normal;
 }
 
-header.numbered-header{
+/* Numbered headings in Jack's letter */
+#stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > header:nth-of-type(n+2) {
 	font-size: larger;
 	text-align: center;
 }
