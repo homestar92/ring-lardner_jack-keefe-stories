@@ -12,19 +12,19 @@
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
-	<file path="the-bushers-kid.xhtml">
+	<file path="the-busher-beats-it-hence.xhtml">
 		<ignore>
-			<code>t-030</code>
+			<code>t-029</code>
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
-	</file>
-	<file path="the-busher-beats-it-hence.xhtml">
 		<ignore>
 			<code>y-026</code>
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
+	</file>
+	<file path="the-bushers-kid.xhtml">
 		<ignore>
-			<code>t-029</code>
+			<code>t-030</code>
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
