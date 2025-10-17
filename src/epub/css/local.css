@@ -71,7 +71,7 @@ p span.i2{
 }
 
 /* Putting the headers of letters inside of letters on the left. This matches their appearance in the scans. */
-blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] > header{
+#private-valentine > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] > header{
 	text-align: initial;
 }
 
