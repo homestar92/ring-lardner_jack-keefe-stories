@@ -84,3 +84,16 @@ blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] > 
 	font-size: larger;
 	text-align: center;
 }
+
+[epub|type~="z3998:article"] > header{
+	font-variant: small-caps;
+	text-align: center;
+}
+
+#decorated > blockquote[epub|type~="z3998:letter"] > blockquote:not([epub|type]){
+	text-align: center;
+}
+
+#decorated [epub|type~="z3998:article"] > p:nth-of-type(2){
+	text-indent: 0;
+}
