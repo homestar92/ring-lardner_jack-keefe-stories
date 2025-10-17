@@ -80,7 +80,7 @@ blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] > 
 }
 
 /* Numbered headings in Jack's letter */
-#stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > header:nth-of-type(n+2) {
+#stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > header:nth-of-type(n+2){
 	font-size: larger;
 	text-align: center;
 }
