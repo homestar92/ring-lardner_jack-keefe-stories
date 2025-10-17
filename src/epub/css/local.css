@@ -28,7 +28,8 @@ footer{
 	text-indent: 0;
 }
 
-article > blockquote{
+article > blockquote,
+#the-busher-abroad > section > blockquote{
 	margin: 1em 0;
 }
 
