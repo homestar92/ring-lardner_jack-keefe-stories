@@ -22,10 +22,4 @@
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
-	<file path="the-bushers-kid.xhtml">
-		<ignore>
-			<code>t-030</code>
-			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
