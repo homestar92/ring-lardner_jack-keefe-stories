@@ -12,6 +12,16 @@
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
+	<file path="call-for-mr-keefe.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
+		</ignore>
+		<ignore>
+			<code>y-031</code>
+			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
+		</ignore>
+	</file>
 	<file path="the-busher-abroad.xhtml">
 		<ignore>
 			<code>t-041</code>
