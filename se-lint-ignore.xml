@@ -12,6 +12,12 @@
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
+	<file path="the-busher-abroad.xhtml">
+		<ignore>
+			<code>t-041</code>
+			<reason>This is literally how it appears in the scans. Writing like this is consistent with Jack Keefe's characterization.</reason>
+		</ignore>
+	</file>
 	<file path="the-busher-beats-it-hence.xhtml">
 		<ignore>
 			<code>t-029</code>
