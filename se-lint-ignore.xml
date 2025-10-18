@@ -21,6 +21,10 @@
 			<code>y-035</code>
 			<reason>Replacing "oh" with just "o" is consistent with Jack Keefe's writing style</reason>
 		</ignore>
+		<ignore>
+			<code>t-029</code>
+			<reason>Jack Keefe often starts sentences without an upper-case letter. All of these are intentional and match the scans.</reason>
+		</ignore>
 	</file>
 	<file path="the-busher-beats-it-hence.xhtml">
 		<ignore>
