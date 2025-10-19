@@ -69,11 +69,6 @@ p span.i1{
 	text-indent: -1em;
 }
 
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
-
 /* Overriding styles for letters within letters - these do not use small-caps */
 #stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"],
 #sammy-boy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"]{
