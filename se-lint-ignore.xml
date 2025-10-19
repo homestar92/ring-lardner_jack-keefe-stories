@@ -34,6 +34,16 @@
 			<reason>In this case, we're referring to an X shape. This is neither a Grapheme nor a Phoneme as it refers to the shape of the letter, not any linguistic properties of it.</reason>
 		</ignore>
 	</file>
+	<file path="the-battle-of-texas.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
+		</ignore>
+		<ignore>
+			<code>y-031</code>
+			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
+		</ignore>
+	</file>
 	<file path="the-busher-abroad.xhtml">
 		<ignore>
 			<code>t-041</code>
