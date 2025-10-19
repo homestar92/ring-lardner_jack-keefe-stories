@@ -56,16 +56,16 @@
 	</file>
 	<file path="the-busher-abroad.xhtml">
 		<ignore>
+			<code>t-029</code>
+			<reason>Jack Keefe often starts sentences without an upper-case letter. All of these are intentional and match the scans.</reason>
+		</ignore>
+		<ignore>
 			<code>t-041</code>
 			<reason>This is literally how it appears in the scans. Writing like this is consistent with Jack Keefe's characterization.</reason>
 		</ignore>
 		<ignore>
 			<code>y-035</code>
 			<reason>Replacing "oh" with just "o" is consistent with Jack Keefe's writing style</reason>
-		</ignore>
-		<ignore>
-			<code>t-029</code>
-			<reason>Jack Keefe often starts sentences without an upper-case letter. All of these are intentional and match the scans.</reason>
 		</ignore>
 	</file>
 	<file path="the-busher-beats-it-hence.xhtml">
