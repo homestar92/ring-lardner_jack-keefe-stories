@@ -64,6 +64,10 @@
 			<reason>This is literally how it appears in the scans. Writing like this is consistent with Jack Keefe's characterization.</reason>
 		</ignore>
 		<ignore>
+			<code>t-064</code>
+			<reason>This is capitalized inconsistently. This suggests intentionality by the author and given Keefe's poor spellng and grammar, it would meaningfully alter Keefe's characterization to correct this.</reason>
+		</ignore>
+		<ignore>
 			<code>y-035</code>
 			<reason>Replacing "oh" with just "o" is consistent with Jack Keefe's writing style</reason>
 		</ignore>
