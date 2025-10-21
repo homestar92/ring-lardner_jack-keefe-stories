@@ -55,7 +55,7 @@
 		<meta property="se:subject">Satire</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">Baseball player Jack Keefe writes a series of letters to his friend Al descrbing the goings-on of his life and career.</dc:description>
+		<dc:description id="description">Baseball player Jack Keefe writes a series of letters to his friend Al recalling the goings-on of his life and career.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
