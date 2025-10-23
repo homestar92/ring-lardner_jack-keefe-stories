@@ -102,7 +102,3 @@ p span.i1{
 #decorated [epub|type~="z3998:article"] > p:nth-of-type(2){
 	text-indent: 0;
 }
-
-abbr.time-of-day{
-	font-variant: small-caps;
-}
