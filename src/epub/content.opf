@@ -64,13 +64,29 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<meta property="se:is-a-collection">true</meta>
+		<!-- A Busher’s Letters Home, The Busher Comes Back, The Busher's Honeymoon, A New Busher Breaks In, The Busher’s Kid, The Busher Beats It Hence -->
 		<dc:source>https://www.gutenberg.org/ebooks/52670</dc:source>
+		<!-- Jack the Kaiser Killer, Corporal Punishment, Purls Before Swine -->
 		<dc:source>https://www.gutenberg.org/ebooks/16929</dc:source>
+		<!-- And Many a Stormy Wind Shall Blow, Private Valentine, Stragety and Tragedy, Decorated, Sammy Boy, Simple Simon -->
 		<dc:source>https://www.gutenberg.org/ebooks/7405</dc:source>
+		<!-- The Busher Abroad - 1915/03/20, 1915/04/10, 1915/05/08, 1915/05/15  -->
+		<!-- The Busher’s Welcome Home - 1915/06/05 -->
 		<dc:source>https://catalog.hathitrust.org/Record/000497622</dc:source>
+		<!-- Jack the Kaiser Killer - 1918/03/23 -->
+		<!-- Corporal Punishment - 1918/04/13 -->
+		<!-- Purls Before Swine - 1918/06/08 -->
+		<!-- The Busher Reenlists - 1919/04/19 -->
+		<!-- The Battle of Texas - 1919/05/24 -->
+		<!-- Along Came Ruth - 1919/07/26 -->
+		<!-- The Courtship of T. Dorgan - 1919/09/06 -->
+		<!-- The Busher Pulls a Mays - 1919/10/18 -->
 		<dc:source>https://catalog.hathitrust.org/Record/008573196</dc:source>
+		<!-- A Busher’s Letters Home, The Busher Comes Back, The Busher's Honeymoon, A New Busher Breaks In, The Busher’s Kid, The Busher Beats It Hence -->
 		<dc:source>https://archive.org/details/youknowmeal00lard</dc:source>
+		<!-- And Many a Stormy Wind Shall Blow, Private Valentine, Stragety and Tragedy, Decorated, Sammy Boy, Simple Simon -->
 		<dc:source>https://archive.org/details/cu31924027944226</dc:source>
+		<!-- Call for Mr. Keefe! -->
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1918-03-09_190_36</dc:source>
 		<meta property="se:production-notes">Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published books did not divide the content into separate chapters, so scans were used as reference for the story breaks. "The Busher Abroad" was originally a series of four short stories all published under that name. They are represented in this omnibus as one story with four chapters, but were originally published as loosely connected short stories. Preface has been included from 1925 edition of You Know Me Al.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
