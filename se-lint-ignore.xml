@@ -56,6 +56,10 @@
 	</file>
 	<file path="the-busher-abroad.xhtml">
 		<ignore>
+			<code>s-081</code>
+			<reason>This actually isn't a continued paragraph, based on indentations in the source material. In this story especially, Jack Keefe frequently starts sentences with lowercase letters and based on the scans, that appears to be what was done here.</reason>
+		</ignore>
+		<ignore>
 			<code>t-029</code>
 			<reason>Jack Keefe often starts sentences without an upper-case letter. All of these are intentional and match the scans.</reason>
 		</ignore>
@@ -70,10 +74,6 @@
 		<ignore>
 			<code>y-035</code>
 			<reason>Replacing "oh" with just "o" is consistent with Jack Keefe's writing style</reason>
-		</ignore>
-		<ignore>
-			<code>s-081</code>
-			<reason>This actually isn't a continued paragraph, based on indentations in the source material. In this story especially, Jack Keefe frequently starts sentences with lowercase letters and based on the scans, that appears to be what was done here.</reason>
 		</ignore>
 	</file>
 	<file path="the-busher-beats-it-hence.xhtml">
