@@ -75,11 +75,13 @@ p span.i1{
 
 /* Overriding styles for letters within letters - these do not use small-caps */
 #stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"],
-#sammy-boy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"]{
+#sammy-boy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"],
+#purls-before-swine > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"]{
 	font-variant: normal;
 }
 
 /* need to add this selector so that small-caps are still used when the b tag is in place */
+#purls-before-swine > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] b[epub|type~="z3998:salutation"],
 #sammy-boy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] b[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
