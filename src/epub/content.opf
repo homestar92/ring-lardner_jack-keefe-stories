@@ -67,24 +67,19 @@
 		<!-- A Busher’s Letters Home, The Busher Comes Back, The Busher's Honeymoon, A New Busher Breaks In, The Busher’s Kid, The Busher Beats It Hence -->
 		<dc:source>https://www.gutenberg.org/ebooks/52670</dc:source>
 		<dc:source>https://archive.org/details/youknowmeal00lard</dc:source>
-	
 		<!-- Jack the Kaiser Killer, Corporal Punishment, Purls Before Swine -->
 		<dc:source>https://www.gutenberg.org/ebooks/16929</dc:source>
-
 		<!-- And Many a Stormy Wind Shall Blow, Private Valentine, Stragety and Tragedy, Decorated, Sammy Boy, Simple Simon -->
 		<dc:source>https://www.gutenberg.org/ebooks/7405</dc:source>
 		<dc:source>https://archive.org/details/cu31924027944226</dc:source>
-
 		<!-- Call for Mr. Keefe! -->
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1918-03-09_190_36</dc:source>
-
 		<!-- The Busher Abroad, Pt 1 [v.187:no.27-39 (1915)] #607-->
 		<!-- The Busher Abroad, Pt 2 [v.187:6(1915:Mar.27-May1)] #208 -->
 		<!-- The Busher Abroad, Pt 3 [v.187:7(1915:May8-29)] #28 -->
 		<!-- The Busher Abroad, Pt 4 [v.187:7(1915:May8-29)] #111 -->
 		<!-- The Busher’s Welcome Home [v.187:8(1915:June)] #28 -->
 		<dc:source>https://catalog.hathitrust.org/Record/008573196</dc:source>
-		
 		<!-- Jack the Kaiser Killer [v.190 1918 Jan-Mar] #1138 -->
 		<!-- Corporal Punishment [v.190 1918 Apr-Jun] #154 -->
 		<!-- Purls Before Swine [v.190 1918 Apr-Jun] #1147 -->
@@ -94,7 +89,6 @@
 		<!-- The Courtship of T. Dorgan [v.192 1919 Jul-Sep] #1522 -->
 		<!-- The Busher Pulls a Mays [v.192 1919 Oct-Dec] #410 -->
 		<dc:source>https://catalog.hathitrust.org/Record/000497622</dc:source>
-		
 		<meta property="se:production-notes">Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published book compilations did not divide the content into separate chapters, so magazine scans were used as reference for the story breaks. "The Busher Abroad" was originally a series of four short stories all published under that name. They are represented in this omnibus as one story with four chapters, but were originally published as loosely connected short stories. Preface has been included from 1925 edition of You Know Me Al.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
