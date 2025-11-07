@@ -81,7 +81,6 @@ p span.i1{
 }
 
 /* need to add this selector so that small-caps are still used when the b tag is in place */
-#purls-before-swine > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] b[epub|type~="z3998:salutation"],
 #sammy-boy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] b[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
@@ -90,6 +89,11 @@ p span.i1{
 #stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > blockquote:not([epub|type]) > header{
 	font-size: larger;
 	text-align: center;
+}
+
+/* Overriding the style here - source material did not use small-caps here. */
+#purls-before-swine [epub|type~="z3998:recipient"]{
+	font-variant: normal;
 }
 
 [epub|type~="z3998:article"] > header{
