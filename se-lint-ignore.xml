@@ -44,6 +44,12 @@
 			<reason>In this case, we're referring to an X shape. This is neither a Grapheme nor a Phoneme as it refers to the shape of the letter, not any linguistic properties of it.</reason>
 		</ignore>
 	</file>
+	<file path="private-valentine.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>Since Jack Keefe is supposed to be functionally illiterate, proper titlecasing would elevate his writing enough to meaningfully change his voice.</reason>
+		</ignore>
+	</file>
 	<file path="purls-before-swine.xhtml">
 		<ignore>
 			<code>t-064</code>
