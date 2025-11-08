@@ -73,6 +73,25 @@ p span.i1{
 	text-indent: -1em;
 }
 
+/* Start Glossaries */
+dl{
+	margin: 1em 0;
+}
+
+dd{
+	margin-left: 40px;
+}
+
+dd + dt{
+	margin-top: 1em;
+}
+/* End Glossaries */
+
+[epub|type~="z3998:article"] > header{
+	font-variant: small-caps;
+	text-align: center;
+}
+
 /* Overriding styles for letters within letters - these do not use small-caps */
 #stragety-and-tragedy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"],
 #sammy-boy > blockquote[epub|type~="z3998:letter"] > blockquote[epub|type~="z3998:letter"] [epub|type~="z3998:salutation"],
@@ -94,11 +113,6 @@ p span.i1{
 /* Overriding the style here - source material did not use small-caps here. */
 #purls-before-swine [epub|type~="z3998:recipient"]{
 	font-variant: normal;
-}
-
-[epub|type~="z3998:article"] > header{
-	font-variant: small-caps;
-	text-align: center;
 }
 
 #decorated > blockquote[epub|type~="z3998:letter"] > blockquote:not([epub|type]){
