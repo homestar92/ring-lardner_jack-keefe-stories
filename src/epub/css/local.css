@@ -73,20 +73,6 @@ p span.i1{
 	text-indent: -1em;
 }
 
-/* Start Glossaries */
-dl{
-	margin: 1em 0;
-}
-
-dd{
-	margin-left: 40px;
-}
-
-dd + dt{
-	margin-top: 1em;
-}
-/* End Glossaries */
-
 [epub|type~="z3998:article"] > header{
 	font-variant: small-caps;
 	text-align: center;
