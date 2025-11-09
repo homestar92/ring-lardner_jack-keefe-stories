@@ -101,7 +101,7 @@ p span.i1{
 	font-variant: normal;
 }
 
-#decorated > blockquote[epub|type~="z3998:letter"] > blockquote:not([epub|type]){
+#decorated > blockquote[epub|type~="z3998:letter"] > blockquote:first-of-type{
 	text-align: center;
 }
 
