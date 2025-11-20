@@ -91,8 +91,9 @@ p span.i1{
 }
 
 /* Numbered headings in Jack's letter */
-#stragety-and-tragedy > blockquote[epub|type~="z3998:letter"]:nth-of-type(7) > blockquote > header{
+#stragety-and-tragedy div > header{
 	font-size: larger;
+	margin-top: 1em;
 	text-align: center;
 }
 
