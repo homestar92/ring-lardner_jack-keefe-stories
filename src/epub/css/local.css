@@ -73,7 +73,7 @@ p span.i1{
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:article"] > header{
+#decorated blockquote:last-of-type > blockquote > header{
 	font-variant: small-caps;
 	text-align: center;
 }
