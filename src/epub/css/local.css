@@ -82,6 +82,10 @@ p span.i1{
 	text-align: center;
 }
 
+#decorated > blockquote:last-of-type p{
+	text-indent: 0;
+}
+
 /* Numbered headings in Jack's letter */
 #stragety-and-tragedy div > header{
 	font-size: larger;
